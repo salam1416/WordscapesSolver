@@ -1,5 +1,6 @@
 
 import string
+# this file is aimed to find you the needed vocabularies for Workscapes game
 
 def open_file():
     """
